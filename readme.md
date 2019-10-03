@@ -4,7 +4,7 @@
 
 I made this little project around 2015 to prank a colleague. I would hide the frozen version of the script in his computer and execute with another trigger, like on his IDE startup. Only works on Windows.
 
-When someone types CTRL+C or CTRL+X the clipboard will be replaced with the string `Matador de Passarinho` and CTRL+V will not only paste `Matador de passarinho` but also play the `2081956.mp3` file. Also CTRL+Z will be disabled until the .exe is running.
+When someone types CTRL+C or CTRL+X the clipboard will be replaced with the string `Matador de Passarinho` and CTRL+V will not only paste `Matador de passarinho` but also play the `2081956.mp3` file and CTRL+Z will be disabled while the script is active.
 
 Also `kl.py` stands for Key Logger which is pretty much what this script is.
 
