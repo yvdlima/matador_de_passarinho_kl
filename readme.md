@@ -16,4 +16,4 @@ This is a small utility to play mp3 files with windows.
 
 My colleague wasn't a cultured man so he hated [Rogério's work](https://pt.wikipedia.org/wiki/Rog%C3%A9rio_Skylab), which is the inspiration for this script.
 
-Check out the full song here [Matador de Passarinho](https://www.youtube.com/watch?v=93qS9EZEl3A)
+Check out the full song here [Matador de Passarinho](https://www.youtube.com/watch?v=f3R7nOi8Qx8)
